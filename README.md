@@ -1,14 +1,18 @@
 Apple Wallet Financial Insights — UX/UI Case Study
 A comprehensive user experience study and redesign of Apple Wallet to include financial data visualization and expense tracking analytics.
 
+- View Live Figma Prototype  https://www.figma.com/proto/zSwfIF4ZDmLKSFH4o4t2fA/Projekt?node-id=4-320&starting-point-node-id=4%3A320
+- Read Full Project Report (PDF) [Grupp 3, Utökad funktionalitet av Apple Wallet, Projektrapport.pdf](https://github.com/user-attachments/files/24940187/Grupp.3.Utokad.funktionalitet.av.Apple.Wallet.Projektrapport.pdf)
+
+
+
 <img width="411" height="824" alt="image" src="https://github.com/user-attachments/assets/226a0155-2a61-4248-ae10-981140b520ff" />
 <img width="474" height="810" alt="image" src="https://github.com/user-attachments/assets/09ebf4e1-58fd-4d12-b734-34795f791316" />
 <img width="502" height="802" alt="image" src="https://github.com/user-attachments/assets/d233c025-0bf6-4df7-874d-eea4d47196f3" />
 <img width="471" height="829" alt="image" src="https://github.com/user-attachments/assets/fb4c1fbf-f125-48fa-9066-22f071be9d90" />
 
 
-- View Live Figma Prototype
-- Read Full Project Report (PDF)
+
 **Objective**
 To solve the fragmentation of financial data by centralizing transaction history and visualizing spending patterns directly within the Apple Wallet interface.
 +1
